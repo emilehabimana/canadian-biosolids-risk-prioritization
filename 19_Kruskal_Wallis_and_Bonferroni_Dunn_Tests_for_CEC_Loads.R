@@ -27,7 +27,7 @@ set.seed(123)
 # ==============================================================================
 
 # Define file path
-file_path <- "C:/Users/Admin/Documents/Article_2/Data/Data/loads_and_fluxes.csv"
+file_path <- "C:/Users/Admin/Documents/Data/loads_and_fluxes.csv"
 
 # Check if file exists
 if (!file.exists(file_path)) {

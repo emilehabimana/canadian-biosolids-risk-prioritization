@@ -3,8 +3,8 @@
 # ============================================================
 
 # ---------- 1. PATHS ----------
-data_dir <- "C:/Users/Admin/Documents/Article_2/Data"
-figures_dir <- "C:/Users/Admin/Documents/Article_2/Data/Figures"
+data_dir <- "C:/Users/Admin/Documents/Data"
+figures_dir <- "C:/Users/Admin/Documents/Data/Figures"
 
 if (!dir.exists(figures_dir)) dir.create(figures_dir, recursive = TRUE)
 setwd(data_dir)

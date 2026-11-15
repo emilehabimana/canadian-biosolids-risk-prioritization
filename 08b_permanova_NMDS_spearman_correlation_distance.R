@@ -3,8 +3,8 @@
 # ============================================================
 
 # ---------- PATHS ----------
-data_dir    <- "C:/Users/Admin/Documents/Article_2/Data/Data"
-figures_dir <- "C:/Users/Admin/Documents/Article_2/Data/Figures"
+data_dir    <- "C:/Users/Admin/Documents/Data/Data"
+figures_dir <- "C:/Users/Admin/Documents/Data/Figures"
 
 dir.create(figures_dir, showWarnings = FALSE, recursive = TRUE)
 

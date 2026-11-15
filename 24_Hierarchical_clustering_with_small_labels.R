@@ -11,7 +11,7 @@ library(dplyr)
 library(tidyr)
 
 # Set working directory and file paths
-base_dir <- "C:/Users/Admin/Documents/Article_2/Data"
+base_dir <- "C:/Users/Admin/Documents/Data"
 data_file <- file.path(base_dir, "Data/treatment_CEC_classes_scaled_final.csv")
 tables_dir <- file.path(base_dir, "Tables")
 figures_dir <- file.path(base_dir, "Figures")

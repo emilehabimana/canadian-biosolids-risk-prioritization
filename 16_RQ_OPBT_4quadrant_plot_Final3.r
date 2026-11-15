@@ -14,8 +14,8 @@ library(scales)
 # -------------------------
 # Define paths
 # -------------------------
-data_path   <- "C:/Users/Admin/Documents/Article_2/Data/Data/rq_opbt_corrected.csv"
-figure_path <- "C:/Users/Admin/Documents/Article_2/Data/Figures"
+data_path   <- "C:/Users/Admin/Documents/Data/Data/rq_opbt.csv"
+figure_path <- "C:/Users/Admin/Documents/Data/Figures"
 
 dir.create(figure_path, showWarnings = FALSE, recursive = TRUE)
 

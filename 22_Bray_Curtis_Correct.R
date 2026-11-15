@@ -1,5 +1,5 @@
 ################################################################################
-# SCRIPT: Bray-Curtis, PERMANOVA, and PERMDISP Analysis of CEC Classes
+# SCRIPT: PERMANOVA, and PERMDISP Analysis of CEC Classes
 # Objective: Evaluate how Combined_treatement influences CEC class composition
 # Data: 12 CEC class concentrations (µg/kg) from treatments_CEC_classes.csv
 # NOTE: Combined_treatement codes: AA, BB, CC, DD, EE, FF, GG, HH, II, JJ, KK, LL, MM

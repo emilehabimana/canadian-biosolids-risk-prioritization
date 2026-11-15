@@ -44,10 +44,10 @@ set.seed(123)
 # ==============================================================================
 
 # Define file paths
-data_dir <- "C:/Users/Admin/Documents/Article_2/Data/Data"
-tables_dir <- "C:/Users/Admin/Documents/Article_2/Data/Tables"
-reports_dir <- "C:/Users/Admin/Documents/Article_2/Data/Reports"
-figures_dir <- "C:/Users/Admin/Documents/Article_2/Data/Figures"
+data_dir <- "C:/Users/Admin/Documents/Data/Data"
+tables_dir <- "C:/Users/Admin/Documents/Data/Tables"
+reports_dir <- "C:/Users/Admin/Documents/Data/Reports"
+figures_dir <- "C:/Users/Admin/Documents/Data/Figures"
 
 # Create directories if they don't exist
 for (dir in c(tables_dir, reports_dir, figures_dir)) {

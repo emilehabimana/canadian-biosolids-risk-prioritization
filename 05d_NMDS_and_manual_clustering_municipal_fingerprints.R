@@ -4,9 +4,9 @@
 # ============================================================
 
 # ---------- PATHS ----------
-data_dir    <- "C:/Users/Admin/Documents/Article_2/Data/Data"
-tables_dir  <- "C:/Users/Admin/Documents/Article_2/Data/Tables"
-figures_dir <- "C:/Users/Admin/Documents/Article_2/Data/Figures"
+data_dir    <- "C:/Users/Admin/Documents/Data/Data"
+tables_dir  <- "C:/Users/Admin/Documents/Data/Tables"
+figures_dir <- "C:/Users/Admin/Documents/Data/Figures"
 
 dir.create(tables_dir,  showWarnings = FALSE, recursive = TRUE)
 dir.create(figures_dir, showWarnings = FALSE, recursive = TRUE)

@@ -4,8 +4,8 @@
 
 setwd("C:/Users/Admin/Documents/Article_2/Data/Data")
 
-dir.create("C:/Users/Admin/Documents/Article_2/Data/Figures", showWarnings = FALSE, recursive = TRUE)
-dir.create("C:/Users/Admin/Documents/Article_2/Data/Reports", showWarnings = FALSE, recursive = TRUE)
+dir.create("C:/Users/Admin/Documents/Data/Figures", showWarnings = FALSE, recursive = TRUE)
+dir.create("C:/Users/Admin/Documents/Data/Reports", showWarnings = FALSE, recursive = TRUE)
 
 library(tidyverse)
 library(cowplot)
